@@ -1,8 +1,4 @@
-## Retail Sales Intelligence Platform
-
-##  Dashboard Preview
-
-![Retail Sales Dashboard](Images/Dashboard.png)
+# Retail Sales Intelligence Platform
 
 ##  Project Overview
 
@@ -40,7 +36,7 @@ Retail-Sales-Intelligence-Platform
 
 ##  Dashboard Preview
 
-(Add your dashboard screenshot here after uploading to GitHub.)
+![Retail Sales Dashboard](Images/Dashboard.png)
 
 ---
 
