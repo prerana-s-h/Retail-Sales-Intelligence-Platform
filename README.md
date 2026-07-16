@@ -1,24 +1,24 @@
-# 📊 Retail Sales Intelligence Platform
+#  Retail Sales Intelligence Platform
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Retail Sales Intelligence Platform** is an end-to-end data analytics project built using **Python**, **Oracle SQL**, and **Power BI**. The project focuses on cleaning retail sales data, performing business analysis using SQL, and creating an interactive dashboard for decision-making.
 
 ---
 
-## 🚀 Tools & Technologies
+##  Tools & Technologies
 
-- 🐍 Python
-- 📊 Pandas
-- 🔢 NumPy
-- 🗄 Oracle SQL
-- 📈 Power BI
-- 💻 VS Code
-- 🌐 Git & GitHub
+-  Python
+-  Pandas
+-  NumPy
+-  Oracle SQL
+-  Power BI
+-  VS Code
+-  Git & GitHub
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Retail-Sales-Intelligence-Platform
@@ -34,13 +34,13 @@ Retail-Sales-Intelligence-Platform
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 (Add your dashboard screenshot here after uploading to GitHub.)
 
 ---
 
-## 📈 Business Insights
+##  Business Insights
 
 - Identified the highest-performing sales regions.
 - Analyzed category-wise sales and profit.
@@ -50,7 +50,7 @@ Retail-Sales-Intelligence-Platform
 
 ---
 
-## ✨ Features
+##  Features
 
 - Data Cleaning using Python
 - Exploratory Data Analysis (EDA)
@@ -63,10 +63,10 @@ Retail-Sales-Intelligence-Platform
 
 ---
 
-## 👩‍💻 Developed By
+##  Developed By
 
 **Prerana S H**
 
 Electronics & Computer Engineering Graduate
 
-Python | SQL | Power BI | Data Analytics
+Python | SQL | Power BI | Data Scientist
