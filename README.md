@@ -1,3 +1,5 @@
+## Retail Sales Intelligence Platform
+
 ##  Dashboard Preview
 
 ![Retail Sales Dashboard](Images/dashboard.png)
