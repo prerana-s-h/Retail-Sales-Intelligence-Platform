@@ -189,7 +189,7 @@ Open the notebooks inside the **Python** folder and execute them sequentially.
 Execute the SQL queries available in:
 
 ```
-Oracle SQL/30_SQL_Queries.sql
+SQL/30_SQL_Queries.sql
 ```
 
 ### Power BI
@@ -197,7 +197,7 @@ Oracle SQL/30_SQL_Queries.sql
 Open the following file using Power BI Desktop:
 
 ```
-Retail_Sales_Intelligence_Dashboard.pbix
+Dashboard.pbix
 ```
 
 ---
